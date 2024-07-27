@@ -1,0 +1,168 @@
+{
+  "user": [
+    {
+      "name": "tsion",
+      "email": "tsion@test",
+      "password": "abc@123",
+      "id": "1"
+    },
+    {
+      "id": "5af9",
+      "name": "tsion",
+      "email": "tsion@test",
+      "password": "abc@123"
+    },
+    {
+      "id": "279c",
+      "email": "tsion @test",
+      "password": "abc@123",
+      "name": "tsion"
+    },
+    {
+      "id": "0b81",
+      "email": "tsion @test",
+      "password": "abc@123",
+      "name": "tsion"
+    },
+    {
+      "id": "909d",
+      "email": "tsion @test",
+      "password": "abc@123",
+      "name": "tsion"
+    },
+    {
+      "id": "a2cb",
+      "email": "rehana@test.com",
+      "password": "rehab@45",
+      "name": "rehana"
+    },
+    {
+      "id": "88b8",
+      "email": "tsion@test.com",
+      "password": "tsion123@",
+      "name": "tsion"
+    },
+    {
+      "id": "262b",
+      "email": "batman@test.com",
+      "password": "batman123@",
+      "name": "batman"
+    },
+    {
+      "id": "c546",
+      "email": "tsion@test.com",
+      "password": "tsion@146t",
+      "name": "tsion"
+    },
+    {
+      "id": "6ef5",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "6e50",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "5858",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "bc0d",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "8f5a",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "0d22",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "bf94",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "1728",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "88da",
+      "email": "bante@test.com",
+      "password": "bante@123",
+      "name": "bante"
+    },
+    {
+      "id": "7d2f",
+      "email": "",
+      "password": "",
+      "name": ""
+    },
+    {
+      "id": "2900",
+      "email": "arsema@test.com",
+      "password": "arsi@456",
+      "name": "arsema"
+    },
+    {
+      "id": "ca1b",
+      "email": "bante@test.com",
+      "password": "bante@897",
+      "name": "bante"
+    }
+  ],
+  "resturant": [
+    {
+      "id": "1",
+      "name": "T&B",
+      "contact": "0995220266",
+      "address": "Kebele 16 BahirDar"
+    },
+    {
+      "id": "2",
+      "name": "A&T",
+      "contact": "0995220266",
+      "address": "Kebele 15 BahirDar"
+    },
+    {
+      "id": "3",
+      "name": "A&B&T",
+      "contact": "0995220266",
+      "address": "Kebele 14 BahirDar"
+    },
+    {
+      "name": "Starbucks",
+      "address": "canada",
+      "contact": "45678",
+      "id": "7733"
+    },
+    {
+      "name": "MK burgur",
+      "address": "canada",
+      "contact": "4567",
+      "id": "487d"
+    },
+    {
+      "id": "dd69",
+      "name": "KFC Restaurant",
+      "address": "54321",
+      "contact": "America"
+    }
+  ]
+}
